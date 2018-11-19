@@ -13,7 +13,7 @@ Web Application Development
 (In this assigment I learned how to properly develop a photo gallery.)
 
 ### View Project:
-(github.com/jea17b/lesson6_javascript3_/.)
+(https://jea17b.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (How to make a functioning photo reel.)
